@@ -3,8 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-![alt text](https://github.com/mauryarajeev/Image_Search_ReactApp/blob/main/screen_two.png)
-![alt text](https://github.com/mauryarajeev/Image_Search_ReactApp/blob/main/screen_one.png)
+![alt text](https://github.com/mauryarajeev/Image_Search_ReactApp/blob/main/screen_two.png?raw=true)
+![alt text](https://github.com/mauryarajeev/Image_Search_ReactApp/blob/main/screen_one.png?raw=true)
 
 ## File Explanation
 
