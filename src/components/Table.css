@@ -1,0 +1,36 @@
+.image-details-table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+  }
+  
+  .image-details-table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    font-weight: bold;
+    background-color: #f2f2f2;
+  }
+  
+  .image-details-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    color: #333;
+  }
+  
+  .close-button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    background-color: #e5e5e5;
+    color: #333;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+
+  .close-button:hover {
+    background-color: #ccc;
+    color:#c70e0e
+  }
