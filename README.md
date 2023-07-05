@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ![Project Preview](Screenshot (58).png)
+![alt text](http://url/to/img.png)
 
 ## File Explanation
 
