@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Project Preview](./src/find-images.png)
+![Project Preview](Screenshot (58).png)
 
 ## File Explanation
 
